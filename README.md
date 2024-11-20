@@ -4,7 +4,7 @@
 
 <!-- Profile Visits -->
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aftaab25&label=Profile%20views&color=0e75b6&style=flat" alt="aftaab25" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maskedsyntax&label=Profile%20views&color=0e75b6&style=flat" alt="maskedsyntax" /> </p>
 
 <h2 align="center">📫 Contact Me on Social Media</h2>
 <div align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <!-- [Threads][-1] | [LinkedIn][0] | [Medium][1]  -->
-or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://github.com/aftaab25/aftaab25/issues/me) me about anything!
+or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://github.com/maskedsyntax/maskedsyntax/issues/me) me about anything!
 
 </div>
 
@@ -25,20 +25,20 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
 <!-- Highlight Projects 
 <h2 align="center">🗂️ Highlight Projects</h2> 
 <div align="center">
-  <a href="https://github.com/Aftaab25/AStarPathfinder">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aftaab25&repo=AStarPathfinder&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AStarPathfinder" />
+  <a href="https://github.com/maskedsyntax/AStarPathfinder">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maskedsyntax&repo=AStarPathfinder&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AStarPathfinder" />
   </a>
   &nbsp;
-  <a href="https://github.com/Aftaab25/ARM7-Assembler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aftaab25&repo=ARM7-Assembler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ARM7-Assembler" />
+  <a href="https://github.com/maskedsyntax/ARM7-Assembler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maskedsyntax&repo=ARM7-Assembler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ARM7-Assembler" />
   </a>
   &nbsp;
-  <a href="https://github.com/Aftaab25/DocumentScanner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aftaab25&repo=DocumentScanner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DocumentScanner" />
+  <a href="https://github.com/maskedsyntax/DocumentScanner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maskedsyntax&repo=DocumentScanner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DocumentScanner" />
   </a>
   &nbsp;
-  <a href="https://github.com/Aftaab25/2-Stage-OpAmp-Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aftaab25&repo=2-Stage-OpAmp-Analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="2-Stage-OpAmp-Analysis" />
+  <a href="https://github.com/maskedsyntax/2-Stage-OpAmp-Analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maskedsyntax&repo=2-Stage-OpAmp-Analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="2-Stage-OpAmp-Analysis" />
   </a>
   &nbsp;
 </div>
@@ -49,15 +49,15 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
 <h2 align="center">💻 Open Source Work Stats</h2> 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aftaab25&show_icons=true&locale=en&theme=nord" alt="aftaab25" />
+    <img src="https://github-readme-stats.vercel.app/api?username=maskedsyntax&show_icons=true&locale=en&theme=nord" alt="maskedsyntax" />
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aftaab25&show_icons=true&locale=en&layout=compact&theme=nord" alt="aftaab25" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maskedsyntax&show_icons=true&locale=en&layout=compact&theme=nord" alt="maskedsyntax" />
   </p>
   
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftaab25&theme=nord" alt="aftaab25" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maskedsyntax&theme=nord" alt="maskedsyntax" />
   </p>
 </div>
 <br>
@@ -66,7 +66,7 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=aftaab25&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maskedsyntax&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
