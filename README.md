@@ -49,15 +49,15 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
 <h2 align="center">💻 Open Source Work Stats</h2> 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=maskedsyntax&show_icons=true&locale=en&theme=gruvbox" alt="maskedsyntax" />
+    <img src="https://github-readme-stats.vercel.app/api?username=maskedsyntax&show_icons=true&locale=en&theme=github" alt="maskedsyntax" />
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maskedsyntax&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="maskedsyntax" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maskedsyntax&show_icons=true&locale=en&layout=compact&theme=github" alt="maskedsyntax" />
   </p>
   
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maskedsyntax&theme=gruvbox" alt="maskedsyntax" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maskedsyntax&theme=github" alt="maskedsyntax" />
   </p>
 </div>
 <br>
@@ -66,7 +66,7 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=maskedsyntax&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maskedsyntax&theme=github&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
