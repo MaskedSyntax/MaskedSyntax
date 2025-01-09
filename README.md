@@ -1,79 +1,93 @@
-<!-- Intro -->
-<h2 align="center">Hi👋! My name is Aftaab Siddiqui</h2>
-<h3 align="center">Software Developer focused on building open-source tools with keen interest in Machine Learning and Full Stack Development.</h3>
+# Hello there 👋
 
-<!-- Profile Visits -->
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maskedsyntax&label=Profile%20views&color=0e75b6&style=flat" alt="maskedsyntax" /> </p>
+![visitors](https://komarev.com/ghpvc/?username=maskedsyntax&label=Profile%20views&color=0e75b6&style=flat)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<h2 align="center">📫 Contact Me on Social Media</h2>
-<div align="center">
+```go
+package main
 
-<p align="center">
-  <a href="https://threads.net/@aftaab___"><img src="https://img.shields.io/badge/threads-%23000000.svg?&style=for-the-badge&logo=threads&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com//in/aftaabsiddiqui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.medium.com/@aftaab2507/"><img src="https://img.shields.io/badge/medium-%23111111.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-</p>
+import "fmt"
 
-<!-- [Threads][-1] | [LinkedIn][0] | [Medium][1]  -->
-or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://github.com/maskedsyntax/maskedsyntax/issues/me) me about anything!
+type Developer struct {
+	name        string
+	role        string
+	languages   []string
+	prevExp     string
+	currentFocus string
+}
 
-</div>
+func (d Developer) sayHi() {
+	fmt.Printf("Hi, I'm %s! I specialize in %s and have experience in %s. "+
+		"I'm currently focusing on %s while exploring how applied math and machine learning solve real-world problems. "+
+		"Thanks for visiting my GitHub!\n",
+		d.name, d.role, d.prevExp, d.currentFocus)
+}
 
-<br>
+func main() {
+	dev := Developer{
+		name:        "Aftaab Siddiqui",
+		role:        "Software Development and Machine Learning",
+		languages:   []string{"Python", "C++", "Go", "Java"},
+		prevExp:     "Backend Development (Spring Boot) and Flutter for Cross-Platform Apps",
+		currentFocus: "Generative AI, Edge ML, Multimodal ML, and Graph ML",
+	}
+	dev.sayHi()
+}
+```
 
-<!-- Highlight Projects 
-<h2 align="center">🗂️ Highlight Projects</h2> 
-<div align="center">
-  <a href="https://github.com/maskedsyntax/AStarPathfinder">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maskedsyntax&repo=AStarPathfinder&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AStarPathfinder" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/maskedsyntax/ARM7-Assembler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maskedsyntax&repo=ARM7-Assembler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ARM7-Assembler" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/maskedsyntax/DocumentScanner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maskedsyntax&repo=DocumentScanner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DocumentScanner" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/maskedsyntax/2-Stage-OpAmp-Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maskedsyntax&repo=2-Stage-OpAmp-Analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="2-Stage-OpAmp-Analysis" />
-  </a>
-  &nbsp;
-</div>
+## 📝 Blogs
 
-<br>
--->
+- Personal website and blog: [aftaab.xyz/blog](https://aftaab.xyz/blog)
 
-<h2 align="center">💻 Open Source Work Stats</h2> 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=maskedsyntax&show_icons=true&locale=en&theme=github" alt="maskedsyntax" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maskedsyntax&show_icons=true&locale=en&layout=compact&theme=github" alt="maskedsyntax" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maskedsyntax&theme=github" alt="maskedsyntax" />
-  </p>
-</div>
-<br>
+### 📔 Latest Blog Posts
+
+<!-- TODO: BLOG-POST-LIST:START -->
+- [Exploring Edge ML: Real-World Applications and Challenges](https://aftaab.xyz/blog/edge-ml-applications)
+- [Graph Machine Learning: The New Frontier in AI](https://aftaab.xyz/blog/graph-ml-frontier)
+- [Multimodal ML: Combining Vision and Language](https://aftaab.xyz/blog/multimodal-ml)
+<!-- BLOG-POST-LIST:END -->
+
+## 🔧 Technologies & Tools
+
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
+![Golang](https://img.shields.io/badge/Backend-GoLang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=coffeescript&logoColor=white&color=6aa6f8)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=maskedsyntax&theme=github&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+**Frameworks & Libraries:**
 
-</div>
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
+![PyTorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
+![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=6aa6f8)
+![NumPy](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=6aa6f8)
+![Pandas](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
 
-<br>
+**Development Tools:**
 
-[-1]: https://threads.net/@aftaab___
-[0]: https://www.linkedin.com//in/aftaabsiddiqui/
-[1]: https://www.medium.com/@aftaab2507/
-[2]: https://segmentfault.com/u/lizheming
-[3]: https://www.v2ex.com/member/lizheming
+![Neovim](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=6aa6f8)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
+
+**Machine Learning Areas:**
+
+![Generative AI](https://img.shields.io/badge/ML-Generative_AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8)
+![Edge ML](https://img.shields.io/badge/ML-Edge_ML-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8)
+![Multimodal ML](https://img.shields.io/badge/ML-Multimodal_ML-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8)
+![Graph ML](https://img.shields.io/badge/ML-Graph_ML-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8)
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maskedsyntax&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
