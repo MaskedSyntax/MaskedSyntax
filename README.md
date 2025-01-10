@@ -42,9 +42,9 @@ func main() {
 ### 📔 Latest Blog Posts
 
 <!-- TODO: BLOG-POST-LIST:START -->
-- [Exploring Edge ML: Real-World Applications and Challenges](https://aftaab.xyz/blog/edge-ml-applications)
-- [Graph Machine Learning: The New Frontier in AI](https://aftaab.xyz/blog/graph-ml-frontier)
-- [Multimodal ML: Combining Vision and Language](https://aftaab.xyz/blog/multimodal-ml)
+- [What’s the Deal with Graph Machine Learning?](https://aftaab.xyz/blog/whats-the-deal-with-graph-machine-learning)
+- [SLAM in Self-Driving Cars: Mapping the Road Ahead](https://aftaab.xyz/blog/slam-in-self-driving-cars-mapping-the-road-ahead)
+- [The Role of Machine Learning in Medical Science: A Hopeful Future](https://aftaab.xyz/blog/the-role-of-machine-learning-in-medical-science-a-hopeful-future)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
