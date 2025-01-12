@@ -35,16 +35,15 @@ func main() {
 }
 ```
 
-## 📝 Blogs
 
-- Personal website and blog: [aftaab.xyz/blog](https://aftaab.xyz/blog)
+> <code>➜ primary email: [aftaab@aftaab.xyz](mailto:aftaab@aftaab.xyz)</code><br>
+> <code>➜ Personal website and blog: [aftaab.xyz/blog](https://aftaab.xyz/blog)</code><br>
+
 
 ### 📔 Latest Blog Posts
-
-<!-- TODO: BLOG-POST-LIST:START -->
-- [What’s the Deal with Graph Machine Learning?](https://aftaab.xyz/blog/whats-the-deal-with-graph-machine-learning)
-- [SLAM in Self-Driving Cars: Mapping the Road Ahead](https://aftaab.xyz/blog/slam-in-self-driving-cars-mapping-the-road-ahead)
-- [The Role of Machine Learning in Medical Science: A Hopeful Future](https://aftaab.xyz/blog/the-role-of-machine-learning-in-medical-science-a-hopeful-future)
+> <code>➜ [What’s the Deal with Graph Machine Learning?](https://aftaab.xyz/blog/whats-the-deal-with-graph-machine-learning) </code><br>
+> <code>➜ [SLAM in Self-Driving Cars: Mapping the Road Ahead](https://aftaab.xyz/blog/slam-in-self-driving-cars-mapping-the-road-ahead) </code><br> 
+> <code>➜ [The Role of Machine Learning in Medical Science: A Hopeful Future](https://aftaab.xyz/blog/the-role-of-machine-learning-in-medical-science-a-hopeful-future) </code><br>
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
