@@ -1,7 +1,8 @@
 # Hello there 👋
 
-![visitors](https://komarev.com/ghpvc/?username=maskedsyntax&label=Profile%20views&color=0e75b6&style=flat)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![visitors](https://komarev.com/ghpvc/?username=maskedsyntax&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ```go
 package main
@@ -39,11 +40,6 @@ func main() {
 > <code>➜ primary email: [aftaab@aftaab.xyz](mailto:aftaab@aftaab.xyz)</code><br>
 > <code>➜ Personal website and blog: [aftaab.xyz/blog](https://aftaab.xyz/blog)</code><br>
 
-
-### 📔 Latest Blog Posts
-> <code>➜ [What’s the Deal with Graph Machine Learning?](https://aftaab.xyz/blog/whats-the-deal-with-graph-machine-learning) </code><br>
-> <code>➜ [SLAM in Self-Driving Cars: Mapping the Road Ahead](https://aftaab.xyz/blog/slam-in-self-driving-cars-mapping-the-road-ahead) </code><br> 
-> <code>➜ [The Role of Machine Learning in Medical Science: A Hopeful Future](https://aftaab.xyz/blog/the-role-of-machine-learning-in-medical-science-a-hopeful-future) </code><br>
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
