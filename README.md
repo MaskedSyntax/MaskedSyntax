@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hii there 👋
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![visitors](https://komarev.com/ghpvc/?username=maskedsyntax&label=Profile%20views&color=0e75b6&style=flat)
